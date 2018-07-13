@@ -243,3 +243,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
